@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">蓝紫色工作台界面插画</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#ede9fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="28" fill="url(#bg)"/>
+  <rect x="30" y="42" width="196" height="172" rx="18" fill="#fff" opacity=".94"/>
+  <rect x="48" y="62" width="72" height="12" rx="6" fill="#6366f1"/>
+  <rect x="48" y="91" width="70" height="93" rx="12" fill="#e0e7ff"/>
+  <rect x="132" y="91" width="76" height="40" rx="12" fill="#bfdbfe"/>
+  <rect x="132" y="143" width="76" height="41" rx="12" fill="#ddd6fe"/>
+  <circle cx="201" cy="68" r="7" fill="#93c5fd"/>
+</svg>

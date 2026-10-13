@@ -1,0 +1,1 @@
+import{d as o,o as a,b as s,g as t}from"./main-7QSnUxnl.js";const n={class:"flex flex-wrap items-center gap-2.5"},c=o({name:"ExampleRow",__name:"example-row",setup(r){return(e,l)=>(a(),s("div",n,[t(e.$slots,"default")]))}});export{c as _};

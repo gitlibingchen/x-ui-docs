@@ -1,0 +1,1 @@
+import{_ as o}from"./tabs--card-details.vue_vue_type_script_setup_true_lang-Befql_Lz.js";import"./main-7QSnUxnl.js";import"./switch.vue_vue_type_script_setup_true_lang-BdVATI6d.js";export{o as default};

@@ -1,0 +1,1 @@
+import{d as a,o,b as s,g as t}from"./main-7QSnUxnl.js";const n={class:"flex min-w-0 flex-col gap-2.5"},m=a({name:"ExampleStack",__name:"example-stack",setup(c){return(e,l)=>(o(),s("div",n,[t(e.$slots,"default")]))}});export{m as _};
