@@ -4,6 +4,6 @@
 
 官网地址：https://gitlibingchen.github.io/x-ui-docs/
 
-首页提供真实多维表格演示；组件介绍位于 `/x-ui-docs/features/`。页面使用无 `#` 的 History 路由，由预生成 HTML 支持嵌套地址直达与刷新。未知地址返回自定义 404；旧指南、API 文档与测试场景不再发布。
+首页提供真实多维表格演示；组件介绍位于 `/x-ui-docs/features/`，多维表格 API 位于 `/x-ui-docs/api/data-table/`。页面使用无 `#` 的 History 路由，由预生成 HTML 支持嵌套地址直达与刷新。未知地址返回自定义 404；测试场景不随官网发布。
 
 `sitemap.xml` 列出当前公开页面，`.nojekyll` 保留静态产物的原始结构。
